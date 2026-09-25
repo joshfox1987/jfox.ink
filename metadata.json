@@ -1,0 +1,6 @@
+{
+  "name": "J Fox Ink - Precision Vinyl, Custom Graphics & Digital Fabrication",
+  "description": "High-octane creative forge & artisanal fabrication studio. Precision vinyl decals, fleet wraps, custom apparel, fine art inks, and rapid 3D prototyping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
